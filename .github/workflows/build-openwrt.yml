@@ -6,7 +6,7 @@
 # Blog: https://p3terx.com
 #=================================================
 
-name: Build OpenWrt1111
+name: Build OpenWrt1111sds
 
 on:
   release:
